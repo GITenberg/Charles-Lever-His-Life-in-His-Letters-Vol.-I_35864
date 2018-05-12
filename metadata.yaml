@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37944
     wikipedia: http://www.pgil-eirdata.org/html/pgil_datasets/authors/d/Downey,Edward/life.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35864#Charles-Lever-His-Life-in-His-Letters-Vol.-I
 gutenberg_issued: '2011-04-13'
 gutenberg_type: Text
 identifiers:
